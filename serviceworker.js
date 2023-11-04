@@ -1,3 +1,4 @@
+// V-1.0.0
 const assets = ["/", "public/javascript.svg", "public/vite.svg", "style.css", "counter.js", "main.js", "sw-register.js", "favicon.ico", "public/icon-512.png", "contact.html", "public/atc.png", "pages/contact.html"]
 
 self.addEventListener("install", event => {
