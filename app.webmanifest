@@ -1,0 +1,18 @@
+{
+    "name": "Hello Vitex, First PWA try by me",
+    "short_name": "Vitex",
+    "description": "Simple PWA app powered by vite.",
+    "start_url": "./",
+    "orientation": "portrait",
+    "scope": "./",
+    "display": "standalone",
+    "theme_color": "#646cffaa",
+    "background_color": "#242424",
+    "icons": [
+        {
+            "src": "public/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
