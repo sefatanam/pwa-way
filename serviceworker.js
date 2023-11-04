@@ -1,4 +1,4 @@
-const assets = ["/", "javascript.svg", "vite.svg", "style.css", "counter.js", "main.js", "sw-register.js", "favicon.ico", "icon-512.png"]
+const assets = ["/", "javascript.svg", "vite.svg", "style.css", "counter.js", "main.js", "sw-register.js", "favicon.ico", "icon-512.png", "contact.html", "atc.png"]
 
 self.addEventListener("install", event => {
     event.waitUntil(
